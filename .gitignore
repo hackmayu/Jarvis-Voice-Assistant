@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+*.db
+*.sqlite3
+*.ico
+.DS_Store
+.idea/
+*.exe
+.env/
+*.pkl
+*.json
+node_modules/
