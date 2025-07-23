@@ -19,9 +19,9 @@ from pystray import Icon, MenuItem, Menu
 from PIL import Image
 
 # API Keys and config
-OPENROUTER_API_KEY = "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"
-OPENWEATHER_API_KEY = "379ae1811ad51f21a113b4aaad3053e7"
-NEWSAPI_KEY = "f020792b1adc445fb51536184b0722d8"
+OPENROUTER_API_KEY = "Your API Key"
+OPENWEATHER_API_KEY = "Your API Key"
+NEWSAPI_KEY = "Your API key"
 EMAIL_USER = "your.email@example.com"
 EMAIL_PASS = "your_app_password"
 
