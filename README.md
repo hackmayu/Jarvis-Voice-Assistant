@@ -1,4 +1,4 @@
-# **🤖 Jarvis Voice Assistant
+# 🤖 Jarvis Voice Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -62,7 +62,7 @@ Designed with modularity and real-time feedback, it’s a perfect project to sho
 ## **⚙️ Installation**
 
 ```bash
-git clone https://github.com/yourusername/Jarvis-Voice-Assistant.git
+git clone https://github.com/@hackmayu/Jarvis-Voice-Assistant.git
 cd Jarvis-Voice-Assistant
 conda activate jarvis310_py10  # Or use: python -m venv env && env\Scripts\activate
 pip install -r requirements.txt
